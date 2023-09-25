@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1001,
+        "title": "¿Que es la diabetes?",
+        "info": "La diabetes es una enfermedad que se presenta cuando el nivel de glucosa en la sangre, también conocido como azúcar en la sangre, es demasiado alto. La glucosa en la sangre es la principal fuente de energía y proviene de los alimentos. La insulina, una hormona que produce el páncreas, ayuda a que la glucosa de los alimentos ingrese en las células para usarse como energía. Algunas veces, el cuerpo no produce suficiente o no produce nada de insulina o no la usa adecuadamente y la glucosa se queda en la sangre y no llega a las células.",
+        "source": "www.imss.com",
+        "imageName": "glucose-meter"
+    },
+    {
+        "id": 1002,
+        "title": "Tipos de diabetes",
+        "info": "Diabetes tipo 1. Suele aparecer con mayor frecuencia en la infancia o la juventud, aunque es posible que se manifieste más tardíamente. \nDiabetes tipo 2. Es el tipo más común de diabetes, pues abarca, según datos de la Fundación para la Diabetes, entre el 85% y el 90% del total de los casos. Cuando se sufre diabetes tipo 2, el organismo puede producir insulina, pero no lo hace en la cantidad adecuada o no es capaz de responder a sus efectos, lo que provoca la acumulación de la glucosa en la sangre. \nDiabetes gestacional. Durante el embarazo puede ocurrir que los cambios hormonales propios de este estado originen un bloqueo de la función de la insulina. Cuando esto sucede, los niveles de glucosa se pueden incrementar en la sangre de una mujer embarazada. ",
+        "source": "www.imss.com",
+        "imageName": "blood-sample"
+    },
+    {
+        "id": 1003,
+        "title": "Principales consecuencias",
+        "info": " Con el tiempo, la diabetes puede dañar el corazón, los vasos sanguíneos, ojos, riñones y nervios. Los adultos con diabetes tienen un riesgo 2 a 3 veces mayor de infarto de miocardio y accidente cerebrovascular.",
+        "source": "www.imss.com",
+        "imageName": "blood-cells"
+    },
+    {
+        "id": 1004,
+        "title": "Medidas preventivas",
+        "info": "Una dieta saludable, actividad física regular, mantener un peso corporal normal y evitar el consumo de tabaco son formas de prevenir o retrasar la aparición de la diabetes. \nPara más informacion consultar la seccion de Tips",
+        "source": "www.imss.com",
+        "imageName": "blood-pressure"
+    },
+    {
+        "id": 1005,
+        "title": "Factores de Riesgo",
+        "info": "SAlgunos factores de riesgo de la diabetes se pueden controlar con las elecciones de estilo de vida que realiza. Estos se denominan factores de riesgo modificables. Los factores de riesgo que no puede cambiar son factores de riesgo no modificables. ",
+        "source": "www.imss.com",
+        "imageName": "medical-file"
+    },
+    {
+        "id": 1006,
+        "title": "¿Tiene cura?",
+        "info": " Actualmente no hay una cura para la diabetes tipo 1. Sin embargo, lo que sabemos sobre esta afección va evolucionando constantemente, hay nuevas tecnologías y medicamentos en desarrollo, y los investigadores están logrando importantes avances.",
+        "source": "www.imss.com",
+        "imageName": "vaccine"
+    },
+    {
+        "id": 1007,
+        "title": "¿Por qué se da la diabetes?",
+        "info": "La causa exacta de la mayoría de los tipos de diabetes se desconoce. En todos los casos, la glucosa se acumula en el torrente sanguíneo. Esto se debe a que el páncreas no produce suficiente insulina. Ambas clases de diabetes, tipo 1 y tipo 2, pueden causarse por una combinación de factores genéticos y ambientales.",
+        "source": "www.imss.com",
+        "imageName": "Image"
+    },
+    {
+        "id": 1008,
+        "title": "Indice de muerte a causa de diabetes",
+        "info": "La tasa de mortalidad por diabetes para 2020 es de 11.95 personas por cada 10 mil habitantes, la cifra más alta en los últimos 10 años. En 1991 la Organización Mundial de la Salud (OMS) y la Federación Internacional de la Diabetes (FID) crearon el Día Mundial de la Diabetes.",
+        "source": "INEGI MX",
+        "imageName": "consultation"
+    },
+]
